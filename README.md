@@ -1,7 +1,7 @@
 # PROJET D’ARCHITECTURE LOGICIELLE
 L’objectif de ce projet est de mettre en oeuvre les compétences acquises dans le cours d’architecture logicielle. Il est découpé en trois parties que vous devrez faire intégralement.
 
-## Lien youtube : https://www.youtube.com/watch?v=uBEi0MWaTdg&ab_channel=BoubacarSockNiang
+## Lien youtube : https://youtu.be/JP2U8IGSwkI
 
 ## Avant de commencer ce projet est structuré en branches qui sont:
 * [SiteWeb] (https://github.com/boubacar96/Projet_AGL_Groupe11/tree/SiteWeb)
