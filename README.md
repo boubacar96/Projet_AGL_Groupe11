@@ -1,6 +1,11 @@
 # PROJET D’ARCHITECTURE LOGICIELLE
 L’objectif de ce projet est de mettre en oeuvre les compétences acquises dans le cours d’architecture logicielle. Il est découpé en trois parties que vous devrez faire intégralement.
 
+##Avant de commencer ce projet est structuré en branches qui sont:
+*SiteWeb https://github.com/boubacar96/Projet_AGL_Groupe11/tree/SiteWeb
+*ServicesWeb https://github.com/boubacar96/Projet_AGL_Groupe11/tree/ServicesWeb
+*ClientJava https://github.com/boubacar96/Projet_AGL_Groupe11/tree/ClientJava
+
 ## Site Web
 Il s’agira de concevoir un site d’actualité disposant des fonctionnalités suivantes :
 - La page d’accueil devra afficher la liste des derniers articles avec une description sommaire de chacun d’entre eux. Des boutons « suivant » et « précédent » devront permettre de parcourir les articles selon leur ancienneté.
@@ -40,6 +45,8 @@ Créer une application Java (ou Python) permettant de gérer les utilisateurs. Q
 * **Sadou Baldé
 * **Adja Bineta Koné
 * **Boubacar Sock Niang
+
+https://forthebadge.com/images/badges/built-with-love.svg
 
 
 
