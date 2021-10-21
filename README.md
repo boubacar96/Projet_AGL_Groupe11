@@ -1,6 +1,8 @@
 # PROJET D’ARCHITECTURE LOGICIELLE
 L’objectif de ce projet est de mettre en oeuvre les compétences acquises dans le cours d’architecture logicielle. Il est découpé en trois parties que vous devrez faire intégralement.
 
+## Lien youtube : https://www.youtube.com/watch?v=uBEi0MWaTdg&ab_channel=BoubacarSockNiang
+
 ## Avant de commencer ce projet est structuré en branches qui sont:
 * [SiteWeb] (https://github.com/boubacar96/Projet_AGL_Groupe11/tree/SiteWeb)
 * [ServicesWeb] (https://github.com/boubacar96/Projet_AGL_Groupe11/tree/ServicesWeb)
@@ -15,7 +17,7 @@ Il s’agira de concevoir un site d’actualité disposant des fonctionnalités 
  Les visiteurs simples : Ils peuvent accéder à toutes les fonctionnalités applicatives liées à la consultation des articles (affichage par catégorie, etc.)
  Les éditeurs : Leur rôle est de maintenir le contenu du site. De ce fait, en plus de ce que peuvent faire les visiteurs, Ils ont la possibilité, après authentification, de gérer (lister, ajouter, supprimer ou modifier) les articles et les catégories.
  Les administrateurs sont des éditeurs qui ont la possibilité de gérer les données des utilisateurs. Ainsi, ils ont accès à toutes les fonctionnalités applicatives et peuvent donc ajouter, lister, modifier ou supprimer des utilisateurs. De même, ils sont chargés de l’ajout et de la suppression des jetons d’authentification permettant d’accéder aux services web à accès restreint.
-## Site Web
+## Services Web
 En plus des fonctionnalités directement accessibles depuis un navigateur, l’application devra exposer un ensemble de services web afin que ses fonctionnalités métiers soient accessibles à d’autres applications. De ce fait, il vous est demandé de :
 - Créer un service web SOAP permettant de :
  lister, ajouter, supprimer ou modifier des utilisateurs. L’accès à ce service requiert un
